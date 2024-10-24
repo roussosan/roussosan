@@ -2,7 +2,7 @@
 public class Profile {
 private final String firstName = "Antonis";
 private final String lastName = "Roussos";
-private String email = "antonios.roussos@proton.me";
+private String email = "roussos.an@proton.me";
 private String linkedIn = "https://www.linkedin.com/in/antoroussos";
 private String location = "Athens, Greece";
 
