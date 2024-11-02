@@ -6,14 +6,10 @@ private String email = "roussos.an@proton.me";
 private String linkedIn = "https://www.linkedin.com/in/antoroussos";
 private String location = "Athens, Greece";
 
-private String[] techStack = {
-    "Java", "Quarkus", "Spring Boot",
-    "Hibernate", "PostgreSQL", "Docker"
-  };
-
 private String[] currentlyLearning = {
     "Microservice Architecture",
-    "Quarkus"
+    "Quarkus",
+    "Docker"
   };
 
 private String[] hobbies = {
