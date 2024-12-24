@@ -11,9 +11,5 @@ public class Profile {
         "Quarkus",
         "Docker"
       };
-    
-    private String[] hobbies = {
-        "Board games", "Chess"
-      };
 }
 ```
