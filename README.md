@@ -7,9 +7,7 @@ public class Profile {
     private String location = "Athens, Greece";
     
     private String[] currentlyLearning = {
-        "Microservice Architecture",
-        "Quarkus",
-        "Docker"
+        "Microservice Architecture"
       };
 }
 ```
